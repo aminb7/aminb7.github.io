@@ -12,7 +12,7 @@ About
 ======
 I am Mohammad Amin Baqershahi, a recent BSc graduate student at the University of Tehran
 
-My researchs include Distributed Systems, Computer Networks, Cloud Computing, and Software Engineering.
+My researchs include **Distributed Systems**, **Computer Networks**, **Cloud Computing**, and **Software Engineering**.
 
 A data-driven personal website
 ======
