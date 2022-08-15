@@ -12,5 +12,4 @@ About
 ======
 I am Mohammad Amin Baqershahi, a recent BSc graduate student at the University of Tehran
 
-My researchs include **Distributed Systems**, **Computer Networks**, **Cloud Computing**, and **Software Engineering**.
-
+My research interests include **Distributed Systems**, **Computer Networks**, **Cloud Computing**, **IoT**, and **Software Engineering**.
