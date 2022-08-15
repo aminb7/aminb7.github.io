@@ -310,4 +310,4 @@ compress_html:
     envs: development
 
 # Custom Settings
-minimal_mistakes_skin: "dirt"
+# minimal_mistakes_skin: "dirt"
