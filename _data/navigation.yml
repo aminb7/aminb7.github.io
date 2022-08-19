@@ -4,7 +4,7 @@ main:
     url: /education/
 
   - title: "CV"
-    url: /cv/    
+    url: /files/mycv.pdf/    
 
   - title: "Transcript"
     url: /cv/
