@@ -4,10 +4,10 @@ main:
     url: /education/
 
   - title: "CV"
-    url: /files/mycv.pdf/    
+    url: /cv/
 
   - title: "Transcript"
-    url: /cv/
+    url: /transcript/
     
   - title: "Projects"
     url: /markdown/
