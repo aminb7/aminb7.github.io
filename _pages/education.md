@@ -17,6 +17,7 @@ author_profile: true
   - Advanced Programming (18.8/20)
   - Algorithms Design (19.4/20)
   - Artificial Intelligence (19.5/20)
+  - Human Computer Interaction (19.3/20)
 
 ## Diploma, in Mathematics and Physics, Mofid Highschool
 - GPA: 19.92/20
