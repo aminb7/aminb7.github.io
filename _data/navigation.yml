@@ -9,5 +9,5 @@ main:
   - title: "Transcript"
     url: /transcript/
     
-  - title: "Projects"
-    url: /markdown/
+  # - title: "Projects"
+  #   url: /markdown/
