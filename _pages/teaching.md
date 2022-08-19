@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching Assistantship
-
 ### University of Tehran
 - Computer Networks
     - Instructor: [Prof. Naser Yazdani](https://ece.ut.ac.ir/en/~yazdani)
