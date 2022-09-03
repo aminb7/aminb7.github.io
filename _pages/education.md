@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## B.Sc., in Computer Engineering, __[University of Tehran](https://ut.ac.ir/en)__
+University of Tehran is the first rank university in Iran according to [U.S. News](https://www.usnews.com/education/best-global-universities/iran).
 - GPA: 18.32/20 (3.86/4)
 - Ranked $6^{th}$ among 99 Computer Engineering students
 - Related Courses:
