@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
+[Download](https://github.com/aminb7/aminb7.github.io/raw/master/files/transcript.pdf)
+
 ![Could not load Transcript](/images/transcript1.png)
 ![](/images/transcript2.png)
 ![](/images/transcript3.png)
-<!-- <embed src="/files/transcript.pdf" width="100%" height="100%" type="application/pdf"> -->
