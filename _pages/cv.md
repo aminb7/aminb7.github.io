@@ -7,4 +7,5 @@ redirect_from:
   - /resume
 ---
 
-<embed src="/files/mycv.pdf" width="100%" height="100%" type="application/pdf">
+![Could not load CV](/images/cv1.png)
+![](/images/cv2.png)
