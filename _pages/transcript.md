@@ -7,5 +7,7 @@ redirect_from:
   - /resume
 ---
 
-![alt text](/images/transcript1.png)
+![Could not load Transcript](/images/transcript1.png)
+![](/images/transcript2.png)
+![](/images/transcript3.png)
 <!-- <embed src="/files/transcript.pdf" width="100%" height="100%" type="application/pdf"> -->
