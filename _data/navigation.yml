@@ -8,12 +8,12 @@ main:
 
   - title: "Transcript"
     url: /transcript/
-    
-  # - title: "Projects"
-  #   url: /markdown/
 
   - title: "Honors & Awards"
     url: /honors/
   
+  - title: "Projects"
+    url: /projects/
+
   - title: "Teaching Assistantship"
     url: /teaching/
