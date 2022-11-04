@@ -1,11 +1,12 @@
 ---
 layout: archive
-title: "Teaching Assistantship"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
-### University of Tehran
+### Teaching Assistantship, University of Tehran
+
 - Computer Networks
     - Instructor: [Prof. Naser Yazdani](https://ece.ut.ac.ir/en/~yazdani)
     - Semestors: Spring 2022
