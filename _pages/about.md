@@ -14,7 +14,7 @@ I am Mohammad Amin Baqershahi, a computer engineering B.Sc. student in at the Un
 
 ## **Research Interests**
 
-My research interests include **Distributed Systems**, **Cloud Computing**, **Software Engineering**, **Software Systems**, and **Machine Learning**.
+My research interests include **Distributed Systems**, **Cloud Computing**, **Software Engineering**, **IoT**, and **Machine Learning**.
 
 
 Currently, I'm seeking graduate positions in the field of my interest. I'd appreciate you letting me know if you are interested in working with me.
