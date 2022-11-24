@@ -11,4 +11,3 @@ redirect_from:
 
 ![Could not load Transcript](/images/transcript1.png)
 ![](/images/transcript2.png)
-![](/images/transcript3.png)
