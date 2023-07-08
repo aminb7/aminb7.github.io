@@ -7,15 +7,15 @@ author_profile: true
 
 ### University of Tehran
 
+- Operating Systems
+    - Instructor: [Dr. Mehdi Kargahi](https://scholar.google.com/citations?user=oH19bK4AAAAJ&hl=en)
+    - Semestors: Fall 2022, Fall 2021, Spring 2022
 - Computer Networks
     - Instructor: [Prof. Naser Yazdani](https://ece.ut.ac.ir/en/~yazdani)
     - Semestors: Spring 2022
 - Internet Engineering
     - Instructor: [Dr. Ehsan Khamespanah](https://profile.ut.ac.ir/en/~e.khamespanah)
     - Semestors: Spring 2022
-- Operating Systems
-    - Instructor: [Dr. Mehdi Kargahi](https://scholar.google.com/citations?user=oH19bK4AAAAJ&hl=en)
-    - Semestors: Fall 2021, Spring 2022
 - Computer Architecture
     - Instructor: [Dr. Saeed Safari](https://ece.ut.ac.ir/en/~saeed)
     - Semestors: Spring 2021, Fall 2021
