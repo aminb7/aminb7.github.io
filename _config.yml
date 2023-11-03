@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+Research Assistant at CIRRUS Lab, UBC | Graduate Student at the ECE Department, UBC | Ex-Software Engineer at Snapp
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mohammad Amin Baqershahi"
   avatar           : "profile.jpg"
-  bio              : "Research Intern at Monash University, Computer Engineering BSc. Student at the University of Tehran"
+  bio              : "Research Assistant at CIRRUS Lab, UBC | Graduate Student at the ECE Department, UBC | Ex-Software Engineer at Snapp"
   location         :
   employer         :
   pubmed           :
