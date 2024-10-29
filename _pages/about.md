@@ -10,7 +10,6 @@ redirect_from:
 
 ## **About**
 
-I am Mohammad Amin Baqershahi, a computer engineering B.Sc. student at the University of Tehran. I have been working as a research intern at [Monash University](https://www.monash.edu/) under the supervision of [Prof. Adel Nadjaran Toosi](https://scholar.google.com/citations?user=qIh_I-gAAAAJ&hl=en) and worked on designing and implementing scheduling methods and algorithms for heterogeneous Kubernetes clusters in a way that interference of different types of applications (CPU-intensive, Memory-intensive, etc) are considered for mapping pods to resources. My final bachelor thesis under the supervision of [Prof. Naser Yazdani](https://ece.ut.ac.ir/en/~yazdani) was in the area of IoT and more specifically about applying multiple mobile sinks in wireless sensor networks to collect data more efficiently and solve the issue of disjoint WSNs.
+I am MohammadAmin Baqershahi, a computer engineering MASc student at the University of British Columbia. I work at the [Cirrus Lab](https://cirrus.ece.ubc.ca/) as a graduate research assistant under the supervision of [Prof. Mohammad Shahrad](https://mshahrad.github.io/). My main research area is Cloud Computing. Currently, I work on building the next generation of serverless computing systems aiming at optimizing resource efficiency and performance through language runtime-based isolation. Previously I worked as an undergraduate reseatch assistant at [Monash University](https://www.monash.edu/) under the supervision of [Prof. Adel Nadjaran Toosi](https://scholar.google.com/citations?user=qIh_I-gAAAAJ&hl=en), focusing on Kubernetes scheduling.
 
-
-Currently, I'm seeking graduate positions in the field of my interest. I'd appreciate you letting me know if you are interested in working with me.
+Currently, I'm seeking internship opportunities in software engineering, cloud engineering, or DevOps.
