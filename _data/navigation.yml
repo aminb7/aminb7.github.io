@@ -3,20 +3,20 @@ main:
   - title: "Education"
     url: /education/
   
-  - title: "Research"
+  - title: "Experience"
     url: /research/
 
   - title: "CV"
     url: /cv/
 
-  - title: "Transcript"
-    url: /transcript/
+  # - title: "Transcript"
+  #   url: /transcript/
 
   - title: "Honors"
     url: /honors/
   
-  - title: "Projects"
-    url: /projects/
+  # - title: "Projects"
+  #   url: /projects/
 
   - title: "Teaching"
     url: /teaching/
