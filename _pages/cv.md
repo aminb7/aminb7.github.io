@@ -8,6 +8,4 @@ redirect_from:
 ---
 
 [Download](https://github.com/aminb7/aminb7.github.io/raw/master/files/cv.pdf)
-
-![Could not load CV](/images/cv1.png)
-![](/images/cv2.png)
+<iframe src="/files/cv.pdf" width="100%" height="600px"></iframe>
