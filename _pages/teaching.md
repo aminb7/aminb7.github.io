@@ -5,6 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
+### University of British Columbia
+- CPEN 223: Software Design for Engineers I
+    - Instructor: [Dr. Farshid Agharebparast](https://ece.ubc.ca/farshid-agharebparast/)
+    - Semestors: Fall 2024, Fall 2023
+
 ### University of Tehran
 
 - Operating Systems
