@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohammad Amin Baqershahi"
+title                    : "MohammadAmin Baqershahi"
 title_separator          : "-"
-name                     : &name "Mohammad Amin Baqershahi"
-description              : &description "Computer Engineering BSc. Student at the University of Tehran"
+name                     : &name "MohammadAmin Baqershahi"
+description              : &description "MASc of Electrical and Computer Engineering at the University of British Columbia"
 url                      : https://aminb7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aminb7.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Mohammad Amin Baqershahi"
   avatar           : "profile-new.jpg"
-  bio              : "Research Intern at Monash University, Computer Engineering BSc. Student at the University of Tehran"
+  bio              : "Computer Engineering MASc. Student at the University of British Columbia"
   location         :
   employer         :
   pubmed           :
-  email            : "m.baqershahi@gmail.com"
+  email            : "baqershahi@ece.ubc.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
